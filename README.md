@@ -1,0 +1,2 @@
+# Equifiax
+Equifax Case Study
